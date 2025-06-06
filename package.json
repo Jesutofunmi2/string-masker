@@ -1,0 +1,14 @@
+{
+  "name": "string-masker",
+  "version": "1.0.0",
+  "description": "A simple utility to mask parts of strings for privacy or formatting.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["mask", "string", "utility", "privacy"],
+  "author": "Joseph Balogun",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jesutofunmi2/string-masker"
+  }
+}
